@@ -1,0 +1,6 @@
+first = input('Enter your first name: ')
+last = input('Enter your last name: ')
+print(first, last)
+print('I am ' + first + ' ' + last)
+print('I am %s %s ' %(first, last))
+print(f'I am {first} {last}')
